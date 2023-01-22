@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Faksfancy/bankist-good/issues"
   },
-  "homepage": "https://github.com/Faksfancy/bankist-good#readme"
+  "homepage": "https://github.com/Faksfancy/bankist-good#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
 }
